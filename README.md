@@ -1,1 +1,3 @@
 # grammaire
+
+A pythonic grimoire
