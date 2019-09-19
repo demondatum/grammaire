@@ -1,12 +1,22 @@
 
+{
+ box-sizing: border-box;
+}
+
+/* --- ############# TMPs ############# --- */
+h1,h2,h3,h4,.logo-font{
+font-family: sans-serif;
+}
+
+
+body{
+font-family: sans-serif;
+}
+
 /* --- ############# xxx ############# --- */
-
-
-/* --- ############# xxx ############# --- */
-
-
-/* --- ############# xxx ############# --- */
-
+.color-main{color: #;}
+.color-alt{color: #;}
+.color-bg{color: #;}
 
 /* --- ############# xxx ############# --- */
 
