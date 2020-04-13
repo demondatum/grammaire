@@ -1,22 +1,27 @@
 
-{
+* {
  box-sizing: border-box;
 }
 
 /* --- ############# TMPs ############# --- */
-h1,h2,h3,h4,.logo-font{
-font-family: sans-serif;
-}
+
 
 
 body{
-font-family: sans-serif;
+font-family: 'AbibasMedium';
+  font-size: 1.4rem;
+  margin: auto;
+  width: 83%;
+}
+
+p{
+  line-height: 1.6em;
 }
 
 /* --- ############# xxx ############# --- */
-.color-main{color: #;}
-.color-alt{color: #;}
-.color-bg{color: #;}
+.color-main{color: #030303;}
+.color-alt{color: #f0f0f0;}
+.color-bg{color: #666;}
 
 /* --- ############# xxx ############# --- */
 
