@@ -1,3 +1,3 @@
 # grammaire
 
-A pythonic grimoire
+A digital grimoire
